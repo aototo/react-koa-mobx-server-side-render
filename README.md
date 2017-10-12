@@ -54,7 +54,7 @@ npm run build
 正式代码运行:
 
 ```bash
-npm run prod
+npm run prod1
 ```
 
 ### License
